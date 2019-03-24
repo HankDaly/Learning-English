@@ -1,0 +1,1 @@
+﻿abuse:滥用;addiction:瘾;atomic:原子;blueprint:蓝图;category:类别;composable:组成;conclude:得出结论;coupled:耦合;debate:辩论;decoupled:解耦;deny:拒绝;despite:尽管;enforce:执行;expose:暴露;hype:炒作;impose:强加;mapper:映射;pain:痛;partial:局部;persistence:持续;pervasive:普遍;pollution:污染;redundant:多余;researcher:研究人员;rope:绳;spin:旋转;statistic:统计;sweep:扫;transparent:透明;
